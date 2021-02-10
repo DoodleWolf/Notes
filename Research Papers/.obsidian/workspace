@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "826fa754b010f231",
+    "type": "split",
+    "children": [
+      {
+        "id": "f99e12fe5fc64b76",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lionel map.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68ab73ffa4087f27",
+    "type": "split",
+    "children": [
+      {
+        "id": "06eb0e49e54cf40e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c8f009fd873084d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "27f0f6c7eb764ab0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "04b26ba2ebfd6be4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cb35bf70081f91f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aa9519b2f3e4053",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lionel map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Pasted image 20210202203805.png",
+    "Pasted image 20210202204423.png",
+    "Pasted image 20210202204432.png",
+    "Propositions as types.md",
+    "NeRF.md",
+    "Open source all-iron battery.md",
+    "images for PaT paper/Pasted image 20210126204449.png",
+    "images for PaT paper/Pasted image 20210126203844.png",
+    "Pasted image 20210126203844.png"
+  ]
+}

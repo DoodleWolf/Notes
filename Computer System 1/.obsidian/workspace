@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "0d4c170438246d2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0b45f0806858bc0",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Microcontrollers.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33773ed6de203e7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fcfc90b4e54ebca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47f6da0a7379cb6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2e9ba6e24de8974",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab5863e1350f3e3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec6dd448fc259fa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "496e3f0cca199590",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Microcontrollers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Microcontrollers.md",
+    "Pasted image 20210130182030.png",
+    "GPU.md",
+    "Untitled.md",
+    "Pasted image 20210130173503.png",
+    "Pasted image 20210130142359.png",
+    "Pasted image 20210130130724.png",
+    "Raid Summary.md",
+    "Pasted image 20210125191136.png",
+    "Raid 0+1.md"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "474ce33cbb3be801",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e57fa5e6061e0a6",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2 ADT.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9e04c10bf811509",
+    "type": "split",
+    "children": [
+      {
+        "id": "c56c756c32e29f00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11f288684e7c8b18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2b69617de07b216c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2fe83c9f5d8e8cda",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3533a2b9e00a90b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "478c0b93f03e3828",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 ADT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "2 ADT.md",
+    "Pasted image 20210209122239.png",
+    "1 Time Complexity.md",
+    "Pasted image 20210209120904.png",
+    "ADT.md",
+    "Time Complexity.md",
+    "Introduction.md",
+    "Untitled.md",
+    "Tutorial Time Complexity.md",
+    "Pasted image 20210204174736.png"
+  ]
+}

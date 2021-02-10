@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "62c5e5a172671a4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f263865013ec21f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3 Continuous Functions on Intervals/3.2 Two Fundamental Theorems.md",
+            "mode": "source"
+          }
+        },
+        "group": "dac334fa6332c8ab"
+      },
+      {
+        "id": "dd79e2ef0bb59b9e",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3 Continuous Functions on Intervals/3.2 Two Fundamental Theorems.md",
+            "mode": "preview"
+          }
+        },
+        "group": "dac334fa6332c8ab"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed6a979b77cf598a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ad39fa97e08bdd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9ab6f558a06f9eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5efb46133b9d02e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02c99657a21b0bb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "849ad8ca434806e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0a7d46e5156ffc9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 Continuous Functions on Intervals/3.2 Two Fundamental Theorems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "3 Continuous Functions on Intervals/3.2 Two Fundamental Theorems.md",
+    "3 Continuous Functions on Intervals/3.6 Trigonometric Functions.md",
+    "Pasted image 20210131195307.png",
+    "Pasted image 20210131195235.png",
+    "Pasted image 20210131192203.png",
+    "Pasted image 20210131185045.png",
+    "2 Series & Sequences/2.5 Unordered series.md",
+    "2 Series & Sequences/2.4 Rearrangement/Uncoditionally convergent.md",
+    "2 Series & Sequences/2.4 Rearrangement/Rearraangement.md",
+    "2 Series & Sequences/2.4 Rearrangement/2.49 Inf and sup rearrangment.md"
+  ]
+}

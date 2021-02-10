@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "b647cc098f066344",
+    "type": "split",
+    "children": [
+      {
+        "id": "898a0e2083c6155b",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1. Some Linear Programming Preliminaries.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61a0466f5e19e787",
+    "type": "split",
+    "children": [
+      {
+        "id": "7eecc9731b978da9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0398357aab02faf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b209cd40aba6fa3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7721d41425011d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "424532f8c7a87a2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ddceaf23460c15b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Some Linear Programming Preliminaries.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "1. Some Linear Programming Preliminaries.md",
+    "Untitled.md"
+  ]
+}

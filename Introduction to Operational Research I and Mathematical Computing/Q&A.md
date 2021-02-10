@@ -1,0 +1,1 @@
+1. Wouldn't the nonegativity constraint make it harder to differ feasible from non feasible solutions?

@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "fd04fdf60c410a63",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6052a536c22164c",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1.5 Partial Derivatives.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15cdc8f01166cc6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccb75324c415d351",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e42e3b167595e9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd3f116e05a58d52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7295aec5983e9ec2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e52824f7129e578",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f954c35cc9e2359",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.5 Partial Derivatives.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "1.5 Partial Derivatives.md",
+    "Q & A.md",
+    "Pasted image 20210209145911.png",
+    "1.4 Definition of Limits in the cartesian plane.md",
+    "Untitled.md",
+    "p-class/week 2.md",
+    "Pasted image 20210208194814.png",
+    "week 2.md",
+    "Pasted image 20210202155606.png",
+    "1.3 Contours.md"
+  ]
+}

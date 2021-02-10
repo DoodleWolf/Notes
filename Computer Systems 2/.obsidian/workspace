@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "b7ed690adec988e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3573c2995ec4772",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Embedded Computing.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6d8d87a4e56d44c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b232df568514cbdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e357896c640da74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e8e78b71cba01a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3178d73bd67e8753",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dcf6169c5a1dd6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f98629b763c0118",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Embedded Computing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Embedded Computing.md",
+    "Cross-Compilation.md",
+    "Introduction.md",
+    "Pasted image 20210205182343.png",
+    "Pasted image 20210205180255.png",
+    "Untitled.md",
+    "Pasted image 20210205151944.png"
+  ]
+}

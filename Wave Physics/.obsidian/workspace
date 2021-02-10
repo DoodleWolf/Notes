@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "0917aeab32728a90",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7ec6b22b07a9d2f",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fourier Principle.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e62ace1746031655",
+    "type": "split",
+    "children": [
+      {
+        "id": "77cdb24328b43964",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92bfde6799c6f5be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "56bb851f314e6c1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4eddf5a8baf3d41",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdfa0f423de6f54d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2447a61d202bdfc4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fourier Principle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Fourier Principle.md",
+    "Gaussian integral.md",
+    "Pasted image 20210128163553.png",
+    "Untitled.md",
+    "Pasted image 20210128163253.png"
+  ]
+}

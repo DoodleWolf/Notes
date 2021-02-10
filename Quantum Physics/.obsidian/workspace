@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "36e39af9c0dfccb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e58ac943e2b3b7ee",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1 Introduction.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db27e7dbbbf526c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "17752febb439e99e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f209d1d3b47c39b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ec6096a7589520a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bed73b3a29977246",
+    "type": "split",
+    "children": [
+      {
+        "id": "78cd07facb4056df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "618de4640fd96657",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "1 Introduction.md",
+    "Pasted image 20210208225349.png",
+    "Untitled.md"
+  ]
+}

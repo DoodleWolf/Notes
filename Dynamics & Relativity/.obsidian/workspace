@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "073695c5292cac68",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6b13019475524d6",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chapter 1.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2c0fef896b07569",
+    "type": "split",
+    "children": [
+      {
+        "id": "457dfa26acd4a322",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0b0c5a877e1fb87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e37086bad381add3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d3a6faef99a060db",
+    "type": "split",
+    "children": [
+      {
+        "id": "835e2854709e489b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64c3615502bbd783",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapter 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Chapter 1.md",
+    "Week 1.md",
+    "Pasted image 20210205130838.png",
+    "Untitled.md",
+    "Pasted image 20210205133753.png"
+  ]
+}
