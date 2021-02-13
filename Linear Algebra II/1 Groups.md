@@ -19,7 +19,7 @@ where it follows that:
 - Identity existence: $\exists e \in  G,  \forall a \in G, \ e*a=a=a*e$
 - Inverse existence: $\forall a \in G, \exists b \in G, \ a*b=e$ where $e$ is the identity
 
-### Albenian
+### Abelian
 it follows commutativity $a*b=b*a$
 
 #### Size
@@ -50,7 +50,7 @@ Let $G$ be a group with operation $*$:
 - $\forall a \in G$ $a*x=b$ and $y*a=b$ have a unique solution in $G$ ($x \leftrightarrow a*x$ and $y \leftrightarrow y *a$, left and right translation by $a$ are bijective)
 	- ![[Pasted image 20210203171303.png]] (im not really sure what right translation has to do with surjectivity)
 - $\forall a \in G, \ (a^{-1})^{-1}=a$
-- $\forall a,b \in G \ (a*b)^{-1}=b^{-1}*a^{-1})$
+- $\forall a,b \in G \ (a*b)^{-1}=b^{-1}*a^{-1}$
 	- ![[Pasted image 20210203171612.png]]
 - ![[Pasted image 20210203170540.png]]
 

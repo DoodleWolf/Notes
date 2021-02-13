@@ -6,36 +6,25 @@
       {
         "id": "95dd7349c3aadbf4",
         "type": "leaf",
-        "dimension": 33.52564102564102,
+        "dimension": 50.82604470359573,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Coursework 1.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "10d0cbb9ad28b6ce",
-        "type": "leaf",
-        "dimension": 34.03846153846154,
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "cwk01.pdf"
+            "mode": "preview"
           }
         }
       },
       {
         "id": "35177c44cde22ddf",
         "type": "leaf",
-        "dimension": 32.43589743589744,
+        "dimension": 49.17395529640428,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coursework 1.md",
-            "mode": "preview"
+            "file": "1 Groups.md",
+            "mode": "source"
           }
         }
       }
@@ -111,10 +100,10 @@
   },
   "lastOpenFiles": [
     "Coursework 1.md",
-    "cwk01.pdf",
     "1 Groups.md",
-    "lecture notes.pdf",
     "2 Fields and Vector spaces.md",
+    "cwk01.pdf",
+    "lecture notes.pdf",
     "Untitled.md",
     "1. Groups.md",
     "Pasted image 20210203170540.png",

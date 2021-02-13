@@ -149,3 +149,211 @@ a \in G \Rightarrow a \neq -1 \Rightarrow a&=1+a \\
 $$
 Therefore the inverse exists and is in $G$.
 
+## Exercise 3
+$G= \{ s,t,u,v \}$ be a group under $*$ with $s*u=u$ and $t*t=v$. Determine the group table for $G$ step-by-step.
+
+### Solution
+1. Initial 
+
+$$
+\begin{array}{|c|c|c|c|c|} \hline
+* & s & t & u & v \\ \hline
+s &  &  &  &  \\ \hline
+t &  & v &  &  \\ \hline
+u & u &  &  &  \\ \hline
+v &  &  &  &  \\ \hline
+\end{array}
+$$
+
+2. Input identity
+From Proposition 1.3 a group can only have one identity and $s*u=u$, hence $s$ is the identity
+
+$$
+\begin{array}{|c|c|c|c|c|} \hline
+* & s & t & u & v \\ \hline
+s & s & t & u & v \\ \hline
+t & t & v &  &  \\ \hline
+u & u &  &  &  \\ \hline
+v & v &  &  &  \\ \hline
+\end{array}
+$$
+
+3. $u*u=v$
+$s$ is the identity => $\forall a \in G \backslash \{s\}, \ v*a \neq v$
+$t*t=v$ => $t*u \neq v$ and $u*t \neq v$ (Prop. 1.4 says there must be a unique solution)
+(Prop. 1.4 there must be a unique solution to $u*\ ?=v$) => $u*u=v$
+
+$$
+\begin{array}{|c|c|c|c|c|} \hline
+* & s & t & u & v \\ \hline
+s & s & t & u & v \\ \hline
+t & t & v &  &  \\ \hline
+u & u &  & v &  \\ \hline
+v & v &  &  &  \\ \hline
+\end{array}
+$$
+
+4. $t*v=v*t=u$
+Prop 1.4 => $t* \ ? =u$ and $?*t=u$ must be unique
+$s*u=u*s=u$ => $t*u \neq u$ and $u*t \neq u$
+leaving only $t*v=v*t=u$ 
+
+$$
+\begin{array}{|c|c|c|c|c|} \hline
+* & s & t & u & v \\ \hline
+s & s & t & u & v \\ \hline
+t & t & v &  & u \\ \hline
+u & u &  & v &  \\ \hline
+v & v & u &  &  \\ \hline
+\end{array}
+$$
+
+5. $t*u=u*t=s$
+$s$ is the only element not found in the $t$ row and column
+
+$$
+\begin{array}{|c|c|c|c|c|} \hline
+* & s & t & u & v \\ \hline
+s & s & t & u & v \\ \hline
+t & t & v & s & u \\ \hline
+u & u & s & v &  \\ \hline
+v & v & u &  &  \\ \hline
+\end{array}
+$$
+
+6. $u*v=v*u=t$
+$t$ is the only element not found in the $u$ row and column
+
+$$
+\begin{array}{|c|c|c|c|c|} \hline
+* & s & t & u & v \\ \hline
+s & s & t & u & v \\ \hline
+t & t & v & s & u \\ \hline
+u & u & s & v & t \\ \hline
+v & v & u & t &  \\ \hline
+\end{array}
+$$
+
+7. $v*v=s$
+$s$ is the only element not found in the $v$ row and column
+
+$$
+\begin{array}{|c|c|c|c|c|} \hline
+* & s & t & u & v \\ \hline
+s & s & t & u & v \\ \hline
+t & t & v & s & u \\ \hline
+u & u & s & v & t \\ \hline
+v & v & u & t & s \\ \hline
+\end{array}
+$$
+
+## Exercise 4
+
+a) Find the group table for $C_4$.
+b) Find the group table for $C_2 \times C_2$ following $*$ from exercise 1
+c) $\forall a \in C_4$ find the $\operatorname {sup} \{ m \in \mathbb{Z}_+ : ma = e \}$  where $e$ is the identity in $C_4$
+d) $\forall (a,b) \in C_2 \times C_2$ find the $\operatorname {sup} \{ m \in \mathbb{Z}_+ : m(a,b) = e \}$  where $e$ is the identity in $C_2 \times C_2$
+
+### Solutions
+
+#### 4.a  group table for $C_4$
+$$
+\begin{array}{|c|c|c|c|c|} \hline
+\oplus & \bar{0} & \bar{1} & \bar{2} & \bar{3} \\ \hline
+\bar{0} & \bar{0} & \bar{1} & \bar{2} & \bar{3} \\ \hline
+\bar{1} & \bar{1} & \bar{2} & \bar{3} & \bar{0} \\ \hline
+\bar{2} & \bar{2} & \bar{3} & \bar{0} &  \bar{1}\\ \hline
+\bar{3} & \bar{3} & \bar{0} & \bar{1} & \bar{2} \\ \hline
+\end{array}
+$$
+
+#### 4.b group table for $C_2 \times C_2$
+$$
+\begin{array}{|c|c|c|c|c|} \hline
+* & (\bar{0}, \bar{0}) & (\bar{0}, \bar{1}) & (\bar{1}, \bar{0}) & (\bar{1}, \bar{1}) \\ \hline
+(\bar{0}, \bar{0}) & (\bar{0}, \bar{0}) & (\bar{0}, \bar{1}) & (\bar{1}, \bar{0}) & (\bar{1}, \bar{1}) \\ \hline
+(\bar{0}, \bar{1}) & (\bar{0}, \bar{1}) & (\bar{0}, \bar{0}) & (\bar{1}, \bar{1}) & (\bar{1}, \bar{0}) \\ \hline
+(\bar{1}, \bar{0}) & (\bar{1}, \bar{0}) & (\bar{1}, \bar{1}) & (\bar{0}, \bar{0}) & (\bar{0}, \bar{1}) \\ \hline
+(\bar{1}, \bar{1}) & (\bar{1}, \bar{1}) & (\bar{1}, \bar{0}) & (\bar{0}, \bar{1}) & (\bar{0}, \bar{0}) \\ \hline
+\end{array}
+$$
+
+#### 4.c
+1. For $\bar{0},\ m=0$
+2. For $\bar{1}, \ m=4$
+3. For $\bar{2}, \ m=2$
+4. For $\bar{3}, \ m=4$
+
+#### 4.d
+1. For $(\bar{0}, \bar{0}), \ m=0$
+2. For $(\bar{0}, \bar{1}), \ m=1$
+3. For $(\bar{1}, \bar{0}), \ m=1$
+4. For $(\bar{1}, \bar{1}), \ m=1$
+
+## Extra question
+$G$ is a group under $+: G \times G \rightarrow G, (a,b) \mapsto a+b$
+a) Show that $\forall a \in G, \forall \mathbb{Z}, \ m(na)=(mn)a$
+b) Write the two exponential laws in additive notation.
+
+### Solutions
+
+#### part a
+Break down into cases:
+1. $m,n > 0$
+$$ 
+\begin{align}
+m(na)&=(mn)a\\
+m \overbrace{(a + \dots + a)}^{n \text{ times}} &= \overbrace{a+ \dots + a}^{mn \text{ times}}\\
+\overbrace{(a + \dots + a)}^{mn \text{ times}} &= \overbrace{a+ \dots + a}^{mn \text{ times}}
+\end{align}
+$$
+
+2. $m > 0, n < 0$
+$$ 
+\begin{align}
+m(na)&=(mn)a\\
+na=\overbrace{-a-\dots-a}^{n \text{ times}} \Rightarrow m(-n(-a))&=(-mn)(-a)\\
+-n>0 \Rightarrow (-mn)(-a)&=(-mn)(-a)
+\end{align}
+$$
+
+3. $m < 0, n > 0$
+$$
+\begin{align}
+m(na) &= (mn)a\\
+m(-n(-a)) &= (mn)(-1(-a))\\
+\text{from 2.} \Rightarrow (-mn)(-a) &= (-mn)(-a)
+\end{align}
+$$
+
+4. $m,n < 0$
+$$
+\begin{align}
+m(na)&=(mn)a \\
+-m,-n>0 \Rightarrow -m(-n)(a)&=(mn)(a)\\
+(mn)(a)&=(mn)(a)
+\end{align}
+$$
+
+9. $m=0$
+Let $e$ be the identity of $G$
+$$
+\begin{align}
+0(na)&=(0n)a\\
+\text{let }b = na \Rightarrow 0b&=0a \\
+e&=e
+\end{align}
+$$
+11. $n=0$
+$$
+\begin{align}
+m(0a)&=(m0)a\\
+me&=0a\\
+e&=e
+\end{align}
+$$
+
+#### part b
+Exponential laws:
+1. $\forall m,n \in \mathbb{Z}, \forall a \in G, \ (m+n)(a)=ma+na$
+2. If $G$ is abelian, $\forall m \in \mathbb{Z}, \forall a,b \in G, \ m(a+b)=ma+mb$ 
