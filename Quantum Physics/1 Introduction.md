@@ -25,10 +25,23 @@ $$\int \limits _a ^b | \Psi (x,t)|^2 dx = \text { probability of finding the par
  ![[Pasted image 20210208225617.png]]
  
  
- ## Normalization is time-independet for the schrodinger equation
+ ## 1.5 Normalization is time-independet for the schrodinger equation
  ![[Pasted image 20210208230327.png]]
  ![[Pasted image 20210208230341.png]]
  ![[Pasted image 20210208230349.png]]
  ![[Pasted image 20210208230357.png]]
  ![[Pasted image 20210208230405.png]]
  $\Psi (x,t) \rightarrow 0$ since it's require to be normalizable and so does $\frac{\partial \Psi} {\partial x}$
+ 
+ # 1.6 Uncertainty principle
+ ## de Broglie relation
+ $$p = \frac \hbar \lambda$$
+- position precise -> wave-length imprecise -> momentum precise
+- position imprecise -> wave-length precise -> momentum precise
+
+ ## Heisenberg uncertainty principle
+ 
+ $$\sigma_x \sigma_p \geq \frac \hbar 2$$
+ $\sigma _p$ - variation of the wave function in momentum
+ $\sigma _x$ - variation of the wave function in space
+ 

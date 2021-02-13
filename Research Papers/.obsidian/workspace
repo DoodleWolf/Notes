@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lionel map.md",
-            "mode": "preview"
+            "file": "Boston map/Lionel map.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lionel map.md",
+                "file": "Boston map/Lionel map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "Pasted image 20210202203805.png",
-    "Pasted image 20210202204423.png",
+    "Lionel map.md",
     "Pasted image 20210202204432.png",
+    "Pasted image 20210210201916.png",
+    "Pasted image 20210202204423.png",
+    "Pasted image 20210202203805.png",
+    "Untitled.md",
     "Propositions as types.md",
     "NeRF.md",
     "Open source all-iron battery.md",
-    "images for PaT paper/Pasted image 20210126204449.png",
-    "images for PaT paper/Pasted image 20210126203844.png",
-    "Pasted image 20210126203844.png"
+    "images for PaT paper/Pasted image 20210126204449.png"
   ]
 }

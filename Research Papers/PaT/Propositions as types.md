@@ -18,7 +18,7 @@
 -  introduction $\equiv$ defintions and elimination $\equiv$ conclusions
 
 ### Subformula principle
-From what was said in [[#^0ee9bd | Natural deduction ]] in the proof of a combination formulas, only those formulas and their subformulas could show up.
+From what was said in [[Propositions as types#^0ee9bd | Natural deduction ]] in the proof of a combination formulas, only those formulas and their subformulas could show up.
 - formula consistency then appears as proving false
 - to find a contradiction one pust find $\curlywedge \subset A$
 
