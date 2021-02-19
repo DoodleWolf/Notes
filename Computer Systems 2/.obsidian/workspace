@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Embedded Computing.md",
+            "file": "5 Memory Architecture.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded Computing.md",
+                "file": "5 Memory Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,12 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Embedded Computing.md",
-    "Cross-Compilation.md",
-    "Introduction.md",
-    "Pasted image 20210205182343.png",
-    "Pasted image 20210205180255.png",
+    "5 Memory Architecture.md",
     "Untitled.md",
-    "Pasted image 20210205151944.png"
+    "Pasted image 20210214150043.png",
+    "Programming in C.md",
+    "Cross-Compilation.md",
+    "Embedded Computing.md",
+    "Introduction.md",
+    "Pasted image 20210205183646.png",
+    "Pasted image 20210205182343.png",
+    "Pasted image 20210205180255.png"
   ]
 }

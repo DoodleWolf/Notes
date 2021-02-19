@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Coursework 1.md",
+            "file": "2 Fields and Vector spaces.md",
             "mode": "preview"
           }
         }
@@ -21,10 +21,9 @@
         "type": "leaf",
         "dimension": 49.17395529640428,
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "1 Groups.md",
-            "mode": "source"
+            "file": "lecture notes.pdf"
           }
         }
       }
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coursework 1.md",
+                "file": "2 Fields and Vector spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,11 +98,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Coursework 1.md",
-    "1 Groups.md",
     "2 Fields and Vector spaces.md",
-    "cwk01.pdf",
     "lecture notes.pdf",
+    "1 Groups.md",
+    "cw/cw1.md",
+    "Coursework 1.md",
+    "cwk01.pdf",
     "Untitled.md",
     "1. Groups.md",
     "Pasted image 20210203170540.png",

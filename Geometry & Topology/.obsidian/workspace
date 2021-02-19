@@ -4,14 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "35164d4b763c30b5",
+        "id": "755e1a34aa525d8f",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1 Euclidean Geometry/1.4 Geodesics.md",
-            "mode": "preview"
+            "file": "3.3 Spaces of continuous functions.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "8c6f72f5f4c99092",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "lecture_notes.pdf"
           }
         }
       }
@@ -69,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Euclidean Geometry/1.4 Geodesics.md",
+                "file": "3.3 Spaces of continuous functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +96,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "1 Euclidean Geometry/1.4 Geodesics.md",
-    "1 Euclidean Geometry/1.3 Euclidean isometries.md",
-    "1 Euclidean Geometry/1.2 Euclidean Space.md",
-    "1 Euclidean Geometry/1.1 Metrics and isometries.md",
-    "1.4 Geodesics.md",
-    "imgs/Pasted image 20210205211439.png",
     "Untitled.md",
-    "Q&A.md",
-    "1 Euclidean Geometry/Live Session 1.md",
-    "Live Session 1.md"
+    "3.2 Norms on the reals.md",
+    "3 Normed Vector Spaces/3.1 Norms.md",
+    "lecture_notes.pdf",
+    "2 Spherical Geometry/2.2 Spherical isometries.md",
+    "2 Spherical Geometry/2.1 Spherical distance.md",
+    "^3.1.md",
+    "2.2 Spherical isometries.md",
+    "1 Euclidean Geometry/1.4 Geodesics.md",
+    "1 Euclidean Geometry/1.3 Euclidean isometries.md"
   ]
 }

@@ -34,7 +34,7 @@ A **vector space** over $F$ is an albenian group $V$ under the map $F \times V \
 ### Vector space axioms
 1. $\forall a,b \in F, \forall x \in V, \ (a+b)x=ax+bx \in V$ (1st distributivity law)
 2. $\forall a \in F, \forall x,y \in V,\ a(x+y)=ax+ay \in V$ (2nd distribuitiy law)
-3. $\forall a,b \in F, \forall x \in V, \ (ab)x=a(bx) \in V
+3. $\forall a,b \in F, \forall x \in V, \ (ab)x=a(bx) \in V$
 4. $\forall x \in V, 1x=x \in V$
 
 vectors: elements of $V$ ($0_F$)
@@ -66,9 +66,17 @@ $F^S$ is a vector space over $F$.
 # 2.3 Subspaces
 
 ## 2.8 Definition (subspace)
-1. $0_V \in W$
+V is a vector space over field $F$. $W$ of $V$ is a subspace of $V$ if:
+1. $0_V \in W$ (addition identity)
 2. $\forall x,y \in W, x+y \in W$ (closed under addition)
 3. $\forall a \in F, \forall x \in W, \ ax \in W$ (closed under scalar multiplication)
 
 ## 2.9 Proposition
-$V$ a vector space over a field $F$
+$V$ a vector space over a field $F$ and $W$ subspace of $V \Rightarrow$ $W$ is a vector space over $F$
+
+## 2.10 Example
+Note: $\mathbb{R}^\mathbb{N}$ is the set of all functions $\mathbb{N} \rightarrow \mathbb{R}$
+
+- subspace $\mathbb{R}^n$: nullspace of $M_n(\mathbb{R})$ or $col(M_n(\mathbb{R}))$
+- subspace $\mathbb{R}^\mathbb{N}$ : the set of convergent sequences of $\mathbb{R}^n$ e.g. $(a_1, a_2, \dots)$
+- 

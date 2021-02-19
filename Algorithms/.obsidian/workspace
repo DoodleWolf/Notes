@@ -8,9 +8,10 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "imgs/Pasted image 20210211114319.png"
+            "file": "3. Graph Reachability Problem.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "imgs/Pasted image 20210211114319.png",
+                "file": "3. Graph Reachability Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "3. Graph Reachability Problem.md",
+    "4. SPP-U.md",
+    "1. Algorithm types.md",
+    "2. Graphs.md",
     "imgs/Pasted image 20210211114319.png",
     "Pasted image 20210211114319.png",
-    "4. SPP-U.md",
     "Pasted image 20210210184220.png",
     "Pasted image 20210210184230.png",
-    "3. Graph Reachability Problem.md",
-    "2. Graphs.md",
     "0 Preliminaries.md",
-    "1 Algorithm types.md",
-    "2 Graphs.md"
+    "1 Algorithm types.md"
   ]
 }

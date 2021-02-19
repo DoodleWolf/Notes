@@ -13,7 +13,20 @@
             "file": "2 Properties of Linear Programming.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "ea5a6e6b7e3b69ef"
+      },
+      {
+        "id": "44f28719851ab462",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2 Properties of Linear Programming.md",
+            "mode": "preview"
+          }
+        },
+        "group": "ea5a6e6b7e3b69ef"
       }
     ],
     "direction": "vertical"
@@ -53,7 +66,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "74b2833614a651da",
@@ -87,14 +101,14 @@
   },
   "lastOpenFiles": [
     "2 Properties of Linear Programming.md",
-    "Pasted image 20210210151259.png",
     "1 Intro to linear programming.md",
+    "Q&A.md",
     "0 Intro.md",
+    "Pasted image 20210210151259.png",
     "p-sets/p-set 0.md",
     "Untitled.md",
     "p-set 0.md",
     "Pasted image 20210210120945.png",
-    "Pasted image 20210208172045.png",
-    "Untitled 1.md"
+    "Pasted image 20210208172045.png"
   ]
 }

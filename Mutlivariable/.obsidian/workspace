@@ -8,10 +8,19 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "1.5 Partial Derivatives.md",
-            "mode": "preview"
+            "file": "imgs/Pasted image 20210217143407.png"
+          }
+        }
+      },
+      {
+        "id": "4d59caf24951e2e5",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "lecture_notes.pdf"
           }
         }
       }
@@ -69,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.5 Partial Derivatives.md",
+                "file": "imgs/Pasted image 20210217143407.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +95,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Pasted image 20210217143407.png",
     "1.5 Partial Derivatives.md",
-    "Q & A.md",
-    "Pasted image 20210209145911.png",
+    "lecture_notes.pdf",
     "1.4 Definition of Limits in the cartesian plane.md",
-    "Untitled.md",
+    "Q & A.md",
+    "1.3 Contours.md",
+    "1.2 Graphical Representations of Multivariable Function.md",
+    "1.1 Functions of more than one variable.md",
     "p-class/week 2.md",
-    "Pasted image 20210208194814.png",
-    "week 2.md",
-    "Pasted image 20210202155606.png",
-    "1.3 Contours.md"
+    "Pasted image 20210209145911.png"
   ]
 }

@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1.3 Cyber Attack Life Cycle.md",
-            "mode": "source"
+            "file": "2.1 Life Cycle Equifax.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.3 Cyber Attack Life Cycle.md",
+                "file": "2.1 Life Cycle Equifax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "2.1 Life Cycle Equifax.md",
     "1.3 Cyber Attack Life Cycle.md",
-    "1.3.md",
-    "2.1.md",
-    "imgs/Pasted image 20210208151025.png",
+    "2.2 Cyber Security Knowledge bases.md",
     "Links.md",
-    "week 2 ses 1.md",
+    "Pasted image 20210214142709.png",
+    "2.1.md",
+    "Cyber Security Knowledge bases.md",
+    "Pasted image 20210209120120.png",
     "Untitled.md",
-    "1.2 Basic Secutiry Concepts.md",
-    "1.1 Basic info.md",
-    "Pasted image 20210209120120.png"
+    "1.1 Basic info.md"
   ]
 }
