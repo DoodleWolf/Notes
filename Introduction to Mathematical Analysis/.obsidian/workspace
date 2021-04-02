@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3 Continuous Functions on Intervals/3.1 Limits and Continuity.md",
-            "mode": "preview"
+            "file": "4 Differentiation/4.2 Derivatives of Some Elementary Functions.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Continuous Functions on Intervals/3.1 Limits and Continuity.md",
+                "file": "4 Differentiation/4.2 Derivatives of Some Elementary Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "3 Continuous Functions on Intervals/3.1 Limits and Continuity.md",
+    "4 Differentiation/4.2 Derivatives of Some Elementary Functions.md",
+    "Untitled.md",
     "4.1 Derivatives.md",
+    "(Undergraduate Texts in Mathematics) Andrew Browder - Mathematical Analysis_ An Introduction-Springer (1995).pdf",
+    "3 Continuous Functions on Intervals/3.1 Limits and Continuity.md",
     "Pasted image 20210131185045.png",
     "3 Continuous Functions on Intervals/3.2 Two Fundamental Theorems.md",
     "3 Continuous Functions on Intervals/3.6 Trigonometric Functions.md",
     "Pasted image 20210131195307.png",
-    "Pasted image 20210131195235.png",
-    "Pasted image 20210131192203.png",
-    "2 Series & Sequences/2.5 Unordered series.md",
-    "2 Series & Sequences/2.4 Rearrangement/Uncoditionally convergent.md"
+    "Pasted image 20210131195235.png"
   ]
 }

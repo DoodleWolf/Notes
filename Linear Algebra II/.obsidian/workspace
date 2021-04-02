@@ -4,22 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "95dd7349c3aadbf4",
+        "id": "409d63b4eca95c72",
         "type": "leaf",
-        "dimension": 50.82604470359573,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2 Fields and Vector spaces.md",
+            "file": "cw/cw4.md",
             "mode": "preview"
           }
         }
       },
       {
-        "id": "35177c44cde22ddf",
+        "id": "36fd3e948a9cd60d",
         "type": "leaf",
-        "dimension": 49.17395529640428,
         "state": {
           "type": "pdf",
           "state": {
@@ -52,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "<0",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Fields and Vector spaces.md",
+                "file": "cw/cw4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +96,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "2 Fields and Vector spaces.md",
+    "cw/cw4.md",
+    "4. Linear Transformations.md",
     "lecture notes.pdf",
-    "1 Groups.md",
-    "cw/cw1.md",
-    "Coursework 1.md",
-    "cwk01.pdf",
-    "Untitled.md",
-    "1. Groups.md",
-    "Pasted image 20210203170540.png",
-    "Q & A.md"
+    "cw/cwk04.pdf",
+    "books/Robert J. Valenza - Linear Algebra An Introduction to Abstract Mathematics.pdf",
+    "books/Martin Anthony, Michele Harvey - Linear Algebra Concepts and Methods.pdf",
+    "books/Sheldon Axler - Linear Algebra Done Right.pdf",
+    "2. Fields and Vector spaces.md",
+    "3. Bases.md",
+    "1. Groups.md"
   ]
 }

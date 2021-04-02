@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "2e57fa5e6061e0a6",
+        "id": "3d72ca31cb47c96b",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4 Binary Tree.md",
+            "file": "10 Graph Theory.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Binary Tree.md",
+                "file": "10 Graph Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "4 Binary Tree.md",
-    "Tutorial Time Complexity.md",
-    "Pasted image 20210216120649.png",
-    "1 Time Complexity.md",
-    "2 ADT.md",
-    "3 Recursion.md",
     "Untitled.md",
-    "Pasted image 20210209122239.png",
-    "Pasted image 20210209120904.png",
-    "ADT.md"
+    "9 Analysis.md",
+    "books/Introduction to algorithms.pdf",
+    "books/MAW - Data Structures and Algorithm Analysis in Java.pdf",
+    "books/THC, CL, EL - Introduction to algorithms.pdf",
+    "6 Different Trees.md",
+    "7 Hash.md",
+    "4 Binary Tree.md",
+    "8 Union-Find.md",
+    "Tutorial 4.md"
   ]
 }

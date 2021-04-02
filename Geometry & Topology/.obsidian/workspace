@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1 Euclidean Geometry/1.2 Euclidean Space.md",
+            "file": "3 Normed Vector Spaces/3.3 Spaces of continuous functions.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Euclidean Geometry/1.2 Euclidean Space.md",
+                "file": "3 Normed Vector Spaces/3.3 Spaces of continuous functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "1 Euclidean Geometry/1.2 Euclidean Space.md",
     "3 Normed Vector Spaces/3.3 Spaces of continuous functions.md",
     "3 Normed Vector Spaces/3.2 Norms on the reals.md",
-    "3 Normed Vector Spaces/3.1 Norms.md",
-    "lecture_notes.pdf",
-    "3.3 Spaces of continuous functions.md",
     "1 Euclidean Geometry/1.1 Metrics and isometries.md",
+    "1 Euclidean Geometry/1.2 Euclidean Space.md",
     "1 Euclidean Geometry/1.3 Euclidean isometries.md",
+    "1 Euclidean Geometry/1.4 Geodesics.md",
     "2 Spherical Geometry/2.1 Spherical distance.md",
-    "2 Spherical Geometry/2.2 Spherical isometries.md"
+    "2 Spherical Geometry/2.2 Spherical isometries.md",
+    "3 Normed Vector Spaces/3.1 Norms.md",
+    "lecture_notes.pdf"
   ]
 }

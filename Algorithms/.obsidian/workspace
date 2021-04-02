@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Graph Reachability Problem.md",
+            "file": "2. Graphs.md",
             "mode": "preview"
           }
         }
@@ -60,16 +60,16 @@
     "type": "split",
     "children": [
       {
-        "id": "39adbb491b1ec846",
+        "id": "cca38dec727639c6",
         "type": "tabs",
         "children": [
           {
-            "id": "b78f0e7faa10ce49",
+            "id": "9edb4edcc623dcc1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Graph Reachability Problem.md",
+                "file": "2. Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "3. Graph Reachability Problem.md",
-    "4. SPP-U.md",
-    "1. Algorithm types.md",
     "2. Graphs.md",
-    "imgs/Pasted image 20210211114319.png",
-    "Pasted image 20210211114319.png",
-    "Pasted image 20210210184220.png",
-    "Pasted image 20210210184230.png",
-    "0 Preliminaries.md",
-    "1 Algorithm types.md"
+    "5. Min spanning trees.md",
+    "4. SPP-U.md",
+    "3. Graph Reachability Problem.md",
+    "imgs/Pasted image 20210220153546.png",
+    "Pasted image 20210220153546.png",
+    "Q&A.md",
+    "Untitled.md",
+    "1. Algorithm types.md",
+    "imgs/Pasted image 20210211114319.png"
   ]
 }
