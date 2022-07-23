@@ -1,5 +1,23 @@
+### DLCI
+Data link connection identifier
+
+### XID
+Exchange Identification
+
+### OSI
+Open System Interface
+
+### ARP
+address resolution protocol
+
 ### DARPA
 Defense Advanced Research Projects Agency
+
+### LLC
+Logical Link Control
+
+### MAC
+Media Access Control
 
 ### BBN 
 Bolt, Beranek and Newman
@@ -46,4 +64,13 @@ Link Control Protocol
 ### NCP
 Network Control Protocols
 
+### MRU
+Maximum Recieve Unit (maximum length for info and padding)
 
+### ISDN
+Integrated Services Digital Network 
+- digital transmission over the circuit-switched telephone networks
+- dail up phones, landlines?
+
+### MTU
+maximum transmission unit
