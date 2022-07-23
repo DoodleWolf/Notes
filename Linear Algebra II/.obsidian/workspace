@@ -4,19 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "409d63b4eca95c72",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "cw/cw4.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "36fd3e948a9cd60d",
+        "id": "d126a3f8483d2ce5",
         "type": "leaf",
         "state": {
           "type": "pdf",
@@ -50,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "<0",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,10 +67,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cw/cw4.md",
+                "file": "lecture notes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,16 +85,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "d126a3f8483d2ce5",
   "lastOpenFiles": [
-    "cw/cw4.md",
-    "4. Linear Transformations.md",
     "lecture notes.pdf",
-    "cw/cwk04.pdf",
-    "books/Robert J. Valenza - Linear Algebra An Introduction to Abstract Mathematics.pdf",
-    "books/Martin Anthony, Michele Harvey - Linear Algebra Concepts and Methods.pdf",
-    "books/Sheldon Axler - Linear Algebra Done Right.pdf",
-    "2. Fields and Vector spaces.md",
     "3. Bases.md",
-    "1. Groups.md"
+    "4. Linear Transformations.md",
+    "2. Fields and Vector spaces.md",
+    "1. Groups.md",
+    "5. Determinants.md",
+    "6. Diagonalisability.md",
+    "Untitled.md",
+    "cw/cw2.pdf",
+    "cw/cw1.md"
   ]
 }

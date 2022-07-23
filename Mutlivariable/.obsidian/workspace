@@ -6,22 +6,12 @@
       {
         "id": "630ce59afca33af7",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1.17 Lagrange Multiplier.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "9ac7025a5d067cfc",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "lecture_notes.pdf"
+            "file": "1 Multivariable Functions/1.9 Differentiability.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -79,11 +69,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.17 Lagrange Multiplier.md",
+                "file": "1 Multivariable Functions/1.9 Differentiability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -92,19 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
+  "active": "630ce59afca33af7",
   "lastOpenFiles": [
-    "1.17 Lagrange Multiplier.md",
-    "Untitled.md",
-    "1.15 Differential.md",
-    "lecture_notes.pdf",
-    "1.10 Directional derivative.md",
-    "1.8 Tangent Planes.md",
-    "1.7 Gradient.md",
-    "1.9 Differentiability.md",
-    "1.12 Higher Order Partial Derivatives.md",
-    "1.13 Changes of Variables in PDEs.md"
+    "1 Multivariable Functions/1.10 Directional derivative.md",
+    "1 Multivariable Functions/1.12 Higher Order Partial Derivatives.md",
+    "1 Multivariable Functions/1.15 Differential.md",
+    "1 Multivariable Functions/1.2 Graphical Representations of Multivariable Function.md",
+    "1 Multivariable Functions/1.5 Partial Derivatives.md",
+    "1 Multivariable Functions/1.4 Definition of Limits in the cartesian plane.md",
+    "2 Multiple Integration/2.2  Integral Properties.md",
+    "2 Multiple Integration/2.1 Introduction.md",
+    "3 Line Integrals and Green's Theorem/3.7 Green's Theorem.md",
+    "3 Line Integrals and Green's Theorem/3.6 Independence of Path.md"
   ]
 }

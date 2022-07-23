@@ -6,12 +6,11 @@
       {
         "id": "959772da649331b7",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dijkstra's algorithm.md",
-            "mode": "source"
+            "file": "2 Properties of Linear Programming.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dijkstra's algorithm.md",
+                "file": "2 Properties of Linear Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "959772da649331b7",
   "lastOpenFiles": [
-    "Dijkstra's algorithm.md",
-    "Untitled.md",
     "2 Properties of Linear Programming.md",
     "1 Intro to linear programming.md",
+    "3 Dijkstra's algorithm.md",
+    "4 Simplex method.md",
+    "Dijkstra's algorithm.md",
+    "Q&A.md",
+    "Untitled.md",
     "imgs/Pasted image 20210217213847.png",
     "Pasted image 20210217213847.png",
-    "Q&A.md",
-    "0 Intro.md",
-    "Pasted image 20210210151259.png",
-    "p-sets/p-set 0.md"
+    "0 Intro.md"
   ]
 }

@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d3573c2995ec4772",
+        "id": "1df551aaed74dee4",
         "type": "leaf",
-        "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "5 Memory Architecture.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -48,6 +44,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "13dcf097ebe6fd56",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -69,13 +73,44 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Memory Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "77c9e4389399ac81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ee6c86c02cef97e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "05d8cd94069ef04d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
             }
           }
         ]
@@ -85,16 +120,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "1df551aaed74dee4",
   "lastOpenFiles": [
     "5 Memory Architecture.md",
+    "2 Cross-Compilation.md",
+    "4 Memory Mapped I-O.md",
+    "3 Programming in C.md",
+    "1 Embedded Computing.md",
     "Untitled.md",
     "Pasted image 20210214150043.png",
     "Programming in C.md",
     "Cross-Compilation.md",
-    "Embedded Computing.md",
-    "Introduction.md",
-    "Pasted image 20210205183646.png",
-    "Pasted image 20210205182343.png",
-    "Pasted image 20210205180255.png"
+    "Embedded Computing.md"
   ]
 }

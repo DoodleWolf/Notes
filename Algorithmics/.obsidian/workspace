@@ -6,12 +6,12 @@
       {
         "id": "3d72ca31cb47c96b",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10 Graph Theory.md",
-            "mode": "source"
+            "file": "12 Algorithms.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -69,10 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Graph Theory.md",
+                "file": "12 Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +87,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "3d72ca31cb47c96b",
   "lastOpenFiles": [
-    "Untitled.md",
-    "9 Analysis.md",
-    "books/Introduction to algorithms.pdf",
-    "books/MAW - Data Structures and Algorithm Analysis in Java.pdf",
-    "books/THC, CL, EL - Introduction to algorithms.pdf",
     "6 Different Trees.md",
-    "7 Hash.md",
     "4 Binary Tree.md",
+    "5 Heaps.md",
     "8 Union-Find.md",
-    "Tutorial 4.md"
+    "11 Shortest Path.md",
+    "12 Algorithms.md",
+    "Tutorial 4.md",
+    "9 Analysis.md",
+    "2 ADT.md",
+    "7 Hash.md"
   ]
 }

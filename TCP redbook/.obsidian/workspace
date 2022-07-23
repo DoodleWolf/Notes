@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "106f56eaec3ccbe3",
+    "type": "split",
+    "children": [
+      {
+        "id": "49520f596bec65e7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ethernet & Local networks.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "28264144bf7ae0da",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "redbook.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0810e8fc1a049d2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "67f73c157c26d8d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "702f3c240d363ec8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "94387ee16433059d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3edd2b09beb04786",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "501e1d5f19189e06",
+    "type": "split",
+    "children": [
+      {
+        "id": "9299553c7aa6c4c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "745e0f4d10ccb002",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ethernet & Local networks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7d160b3d4e25e6e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ethernet & Local networks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2504e74fc7213dab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4cbf3c5d419f5c63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ethernet & Local networks.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "49520f596bec65e7",
+  "lastOpenFiles": [
+    "Internet history.md",
+    "OSI Reference Model.md",
+    "Ethernet & Local networks.md",
+    "Acronyms.md",
+    "RFC.md",
+    "redbook.pdf"
+  ]
+}
