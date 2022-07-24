@@ -74,3 +74,24 @@ Integrated Services Digital Network
 
 ### MTU
 maximum transmission unit
+
+### HPDT
+High performance data transfer
+
+### ATM
+Asynchronous transfer mode
+
+### PVC
+permanent virtual connection
+
+### SVC
+switch virtual connection
+
+### Virtual Circuit
+A way of transporting data over packet-switched networks such that it appears there is a physical link
+
+### DNS
+Domain Name Service
+
+### RIR
+Regional Internet Registries

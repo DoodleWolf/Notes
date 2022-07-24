@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ethernet & Local networks.md",
+            "file": "Internetworking Protocol.md",
             "mode": "source",
             "source": false
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethernet & Local networks.md",
+                "file": "Internetworking Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethernet & Local networks.md",
+                "file": "Internetworking Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethernet & Local networks.md"
+                "file": "Internetworking Protocol.md"
               }
             }
           }
@@ -173,10 +173,11 @@
   "active": "49520f596bec65e7",
   "lastOpenFiles": [
     "Acronyms.md",
-    "Ethernet & Local networks.md",
+    "Internetworking Protocol.md",
     "Internet history.md",
-    "RFC.md",
+    "Ethernet & Local networks.md",
     "OSI Reference Model.md",
-    "redbook.pdf"
+    "redbook.pdf",
+    "RFC.md"
   ]
 }
