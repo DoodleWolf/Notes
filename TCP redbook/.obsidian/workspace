@@ -63,6 +63,14 @@
             "id": "3edd2b09beb04786",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8d6e4d7df67e355",
+            "type": "leaf",
+            "state": {
               "type": "starred",
               "state": {}
             }
@@ -102,6 +110,30 @@
             "id": "b7d160b3d4e25e6e",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2504e74fc7213dab",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4cbf3c5d419f5c63",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6074607cf7d12ff6",
+            "type": "leaf",
+            "state": {
               "type": "outgoing-link",
               "state": {
                 "file": "Internetworking Protocol.md",
@@ -111,7 +143,7 @@
             }
           },
           {
-            "id": "2504e74fc7213dab",
+            "id": "e05188080e59a468",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,7 +154,7 @@
             }
           },
           {
-            "id": "4cbf3c5d419f5c63",
+            "id": "f2262125de4bf290",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -142,10 +174,10 @@
   "lastOpenFiles": [
     "Acronyms.md",
     "Internetworking Protocol.md",
-    "Ethernet & Local networks.md",
     "Internet history.md",
+    "Ethernet & Local networks.md",
     "OSI Reference Model.md",
-    "RFC.md",
-    "redbook.pdf"
+    "redbook.pdf",
+    "RFC.md"
   ]
 }

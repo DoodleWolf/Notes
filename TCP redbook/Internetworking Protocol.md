@@ -107,3 +107,110 @@ Network providers types:
 4. inter-domain with default routes
 
 ### IP datagram
+![[Pasted image 20220725115304.png]]
+- VERS: version (current 4, experimental 5, also 6)
+- HLEN: header length in 32-bit quantities
+- Service type: the QoS
+	![[Pasted image 20220725120611.png]]
+	Precedence
+		• 000: Routine 
+		• 001: Priority
+		• 010: Immediate 
+		• 011: Flash 
+		• 100: Flash override 
+		• 101: Critical 
+		• 110: Internetwork control 
+		• 111: Network control
+	TOS
+		• 1000: Minimize delay 
+		• 0100: Maximize throughput 
+		• 0010: Maximize reliability 
+		• 0001: Minimize monetary cost 
+		• 0000: Normal service
+	MBZ: reserved for future use
+- total length: total length of datag, h and data
+- ID: number for fragmentation
+- FLG: flags ofr fragmentation: 
+	- 1st bit must be 0
+	- 2nd: 0 can frag; 1 can't
+	- 3rd: 0 if last frag; 1 there are more frags
+- Fragment offset: to help recovery; contains the number of bit segment before
+- TTL: supposed to be time to live but is really hops to live
+- Protocol number: 
+![[Pasted image 20220725122831.png]]
+- checksums header (if mismatch discards)
+- options: there are three diff types:
+![[Pasted image 20220725124408.png]]
+	- fc: whether the option is copied on fragmentation (1 yes; 0 no)
+	- class:
+		- 0 control
+		- 1 reserved
+		- 2 debug and measure
+		- 3 reserved
+	- option number:
+		- 0: if ip header length doesn't mathc actual length {class = 0; fc =0 }
+		- 1: no operation -> used to align {class=0; fc=1}
+		- 2: security: us dep of def uses {class=0; fc=1}
+		- 3: loose source routing: {class=0; fc=0}
+		- 4: internet time stamp: {class=2; fc=0}
+		- 7: record route: {class=0; fc=0}
+		- 8: stream id: used with SATNET {class=0; fc=1}
+		- 9: strict source routing: {class=0; fc=1}
+	- length: of the whole option
+	- option data: data to relevant option
+- padding: to pad option
+
+#### Fragmentation
+Different hosts have [[Acronyms#MTU|MTU]] so the IP datagram must be broken down.
+1. check whether fragmentation can happen with frag. flag
+2. split based on [[Acronyms#MTU|MTU]]
+3. options are checked if they need to be copied
+4. new header length
+5. new total length
+6. checksum re-calculated
+Note: netstat command can be used on some IP hosts to see how they fragment
+
+#### Loose source routing
+Loose because there is no strict route
+![[Pasted image 20220725143820.png]]
+- 131 decimal is the option type
+- pointer: says which ip at currently
+- route data: a series of ip-addrs
+
+if pointer < length then:
+1. take next ip addr and put in dest ip addr
+2. put local ip at the source list where pointer is
+3. increment pointer by 4
+4.  send the datagram to the new ip addr
+
+#### Strict source routing
+Same as loose source routing, except the intermediate must be sent directly to the next ip addr.
+
+#### Record route
+Same as loose except insead route data is empty and filled in at each step.
+
+#### Internet time stamp
+can be used for debugging
+![[Pasted image 20220725144857.png]]
+- pointer points to next free time stamp
+- oflw: number of devices unable to be registered due to lack of space in data field
+- flag: 0 time stamps only; 1 time stamp + ip; 2 prespecified ip's which log their time
+- timestamp: 32bit milisec since midnight GMT
+
+
+## [[Acronyms#ICMP|ICMP]]
+to inform of errors in datagram proccesing [[Acronyms#ICMP|ICMP]] is used
+- ICMP is a higher-level protocol
+- used to report errors
+- sent for first fragment error not all of them
+- not sent from broadcast or multicast dest addrs
+- routers usually always generate errors, hosts might not
+![[Pasted image 20220725145739.png]]
+![[Pasted image 20220725145751.png]]
+- 0 and 8: to check whether host is active (using ping)
+- 3: self-explanitory
+	![[Pasted image 20220725145948.png]]
+	header contains one of the following:
+![[Pasted image 20220725150051.png]]![[Pasted image 20220725150058.png]]
+- 4: no buffer space; datagrams are too fast
+- 5: should send to ip addr in the ICMP msg instead 
