@@ -95,3 +95,16 @@ Domain Name Service
 
 ### RIR
 Regional Internet Registries
+
+### NAT
+Network Address Translation
+
+### NAPT
+Network Address Port Translation
+
+
+### ICMP
+Internet Control Message Protocol
+
+### CIDR
+Classless Inter-Domain Routing
